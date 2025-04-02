@@ -760,6 +760,7 @@ header.sticky
     background: var(--other-color);
     padding: 40px 0; /* Reducido de 70px a 40px */
     margin-top: 10rem;
+    lex-direction: column;
 }
 
 .container-footer {
